@@ -1,3 +1,5 @@
+https://novosibirsk.hh.ru/applicant/vacancy_response?vacancyId=117006266&startedWithQuestion=false&hhtmFrom=vacancy
+
 ## Задача
 Написать приложение(Vue.js ^3 можно использовать Nuxt, TS only), которое содержит три страницы:
 - страница со списком категорий и продуктов
